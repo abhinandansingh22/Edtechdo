@@ -1,0 +1,25 @@
+.slider-bg:after {
+    content: "";
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: rgba(29, 29, 29, 0.7);
+}
+
+.explore-bg {
+    background-color: #F4FAFD;
+}
+
+.button-bg {
+    background: #289BDE;
+}
+
+.button-bg:focus {
+    background-color: #289BDE;
+}
+
+.button-bg:hover {
+    background-color: #289BDE;
+}
